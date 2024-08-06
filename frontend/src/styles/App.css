@@ -1,0 +1,8 @@
+.product-card {
+    transition: transform 0.2s ease;
+}
+  
+.product-card.clicked {
+transform: scale(0.95);
+}
+  
